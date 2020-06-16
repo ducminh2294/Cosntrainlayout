@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Cóntrainlayout02062020"
